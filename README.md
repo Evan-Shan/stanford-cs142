@@ -2,4 +2,4 @@
 
 ### Self learning files for cs142.
 
--> proj1- finished by 11/23/2022
+* proj1- finished by 11/23/2022
