@@ -2,4 +2,10 @@
 
 ### Self learning files for cs142.
 
-* proj1- finished by 11/23/2022
+* __hws practice from berkeley__
+  * hw1-complete
+  * hw2-complete
+
+* __projects from stanford__
+  * proj1-complete
+  * proj2-in progress
